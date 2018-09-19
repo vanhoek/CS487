@@ -1,6 +1,7 @@
-Tanya Olivas
 CS 487
-Project1 README
+Tanya D Olivas
+Project 1
+
 ----------------------------------------
 To run:
 

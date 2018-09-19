@@ -1,6 +1,6 @@
-# 
-#
-#
+# CS 487
+# Tanya D Olivas
+# Project 1
 
 #libraries
 import sys
@@ -85,11 +85,11 @@ def dataTransform(dataset):
 	testingX = testingX.astype(numpy.float)
 
 	testingY = testingY.astype(numpy.float)
-	
-	print("trianingX:\n",trainingX)
-	print("trianingY:\n",trainingY)
-	print("testingX:\n",testingX)
-	print("testingY:\n",testingY)
+
+	# print("trianingX:\n",trainingX)
+	# print("trianingY:\n",trainingY)
+	# print("testingX:\n",testingX)
+	# print("testingY:\n",testingY)
 	
 	#return the data
 	return trainingX, trainingY, testingX, testingY
